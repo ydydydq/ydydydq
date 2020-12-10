@@ -13,9 +13,9 @@ WeCheat：YDYDYDQ
 Address: 广州
 
 
-## <img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/3.gif" width="50">A little more about me
+## <img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/3.gif" width="50">关于我
 
-I'm [zhouxiaozhao](www.zhouxiaozhao.cn) , A graduate student from [KIB](http://www.kib.ac.cn/),I’m a novice. I mainly share some of my learning process to prevent forgetting. I’m also welcome to learn and exchange with you.
+一个对 Vue 技术情有独钟的前端小白，在前端领域摸爬滚打，励志成为一名 全栈工程师 ，这个理想至今有点远，哈哈哈。
 
 <img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/2.gif" width="800">
 
