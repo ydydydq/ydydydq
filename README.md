@@ -2,7 +2,7 @@
 
 
 
-<img align='right' src='https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/4.gif' width='200"'>
+<img align='right' src='https://blog.ydydydq.cn/images/github/4.gif' width='200"'>
 
 Email: 3214329153@qq.com
 
@@ -17,7 +17,7 @@ Address: 广州
 
 一个对 Vue 技术情有独钟的前端小白，在前端领域摸爬滚打，励志成为一名 全栈工程师 ，这个理想至今有点远，哈哈哈。
 
-<img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/2.gif" width="800">
+<img src="https://blog.ydydydq.cn/images/github/2.gif" width="400">
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
