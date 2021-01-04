@@ -13,7 +13,7 @@ WeCheat：YDYDYDQ
 Address: 广州
 
 
-## <img src="https://github-1302423028.cos.ap-guangzhou.myqcloud.com/3.gif" width="50"> 关于我
+## 关于我
 
 一名前端打杂工，曾经拯救地球~
 
