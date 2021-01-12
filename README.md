@@ -1,9 +1,5 @@
 ## 橙某人 Github Page
 
-
-
-<img align='right' src='https://github-1302423028.cos.ap-guangzhou.myqcloud.com/4.gif' width='200"'>
-
 Email：3214329153@qq.com
 
 QQ：3214329153
