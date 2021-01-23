@@ -17,7 +17,7 @@ Address: 广州
 
 
 ## 个人博客
-[零の小栈](https://blog.ydydydq.cn/)
+[零の小栈](https://blog.ydydydq.cn/)、[掘金](https://juejin.cn/user/1908407919184670)
 
 ## 基础组件库
 [YDUI](https://blog.ydydydq.cn/ydui/#/main/icon)
