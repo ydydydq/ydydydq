@@ -23,4 +23,5 @@ Address: 广州
 [YDUI](https://blog.ydydydq.cn/ydui/#/main/icon)
 
 ## 公号号
-前端橙某人
+**前端橙某人**
+[公众号二维码](https://raw.githubusercontent.com/ydydydq/image/main/qrcode_for_gh_0607808f3ec3_258.jpg)
