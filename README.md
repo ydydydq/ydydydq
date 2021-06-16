@@ -17,7 +17,7 @@ Address: 广州
 
 
 ## 个人博客
-[零の小栈](http://59.110.157.15:9999/)、[掘金](https://juejin.cn/user/1908407919184670)
+[零の小栈](http://59.110.157.15/)、[掘金](https://juejin.cn/user/1908407919184670)
 
 ## 开源作品
 [YDUI](https://blog.ydydydq.cn/ydui/#/main/icon)
